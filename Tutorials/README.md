@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.hackerrank.com/GilbertTanner">
+  <a href="https://www.hackerrank.com/harshthakkar09?hr_r=1">
     <img alt="HackerRank" height="30%" width="30%"  src="https://github.com/Harsh971/HackerRank_Solutions/blob/main/Tutorials/30_Days_Of_Code_Badge.jpeg">
   </a>
 </p>
