@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# C
+# C Language
 
 Here you will get Solutions of all Problems of <a href="https://www.hackerrank.com/domains/c?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=c">"C"</a> in Many Possible Approaches...
 
@@ -16,16 +16,7 @@ Here you will get Solutions of all Problems of <a href="https://www.hackerrank.c
  
 </br>
 
-## Topics Covered...
 
-- [C](#c-1)
-
-
-
-</br>
-
-
-## C
 
 
 
@@ -33,7 +24,7 @@ Here you will get Solutions of all Problems of <a href="https://www.hackerrank.c
 |    | Problem Name        |SubDomain   |Difficulty Level|HackerRank Panel Link                                                                       |Solution         |
 | :-:| :-:                 |:-:         | :-:            | :-:                                                                                        |:-:              |
 | 1  | "Hello World!" in C |[Introduction](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction)|Easy            |[Click Here](https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction/%22Hello%20World!%22%20in%20C)|
-| 2  | Playing With Characters |[Introduction](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction)|Easy            |[Click Here](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true) |Available Soon...|
+| 2  | Playing With Characters |[Introduction](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction)|Easy            |[Click Here](https://www.hackerrank.com/challenges/playing-with-characters/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction/Playing%20With%20Characters)|
 | 3  | Sum and Difference of Two Numbers |[Introduction](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction)|Easy            |[Click Here](https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true) |Available Soon...|
 | 4  | Functions in C |[Introduction](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction)|Easy            |[Click Here](https://www.hackerrank.com/challenges/functions-in-c/problem?isFullScreen=true) |Available Soon...|
 | 5  | Pointers in C |[Introduction](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction)|Easy            |[Click Here](https://www.hackerrank.com/challenges/pointer-in-c/problem?isFullScreen=true) |Available Soon...|
