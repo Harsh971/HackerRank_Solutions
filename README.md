@@ -76,6 +76,7 @@ Here you will get All Solutions for Topics from HackerRank Platform
 
 
 
+
 |    | Problem Name        |SubDomain   |Difficulty Level|HackerRank Panel Link                                                                       |Solution         |
 | :-:| :-:                 |:-:         | :-:            | :-:                                                                                        |:-:              |
 | 1  | "Hello World!" in C |[Introduction](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction)|Easy            |[Click Here](https://www.hackerrank.com/challenges/hello-world-c/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Introduction/%22Hello%20World!%22%20in%20C)|
@@ -99,11 +100,10 @@ Here you will get All Solutions for Topics from HackerRank Platform
 | 19 | Variadic functions in C |[Functions](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Functions)|Medium           |[Click Here](https://www.hackerrank.com/challenges/variadic-functions-in-c/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Functions/Variadic%20functions%20in%20C)|
 | 20 | Sorting Array of Strings |[Functions](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Functions)|Hard           |[Click Here](https://www.hackerrank.com/challenges/sorting-array-of-strings/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Functions/Sorting%20Array%20of%20Strings)|
 | 21 | Querying the Document |[Functions](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Functions)|Hard           |[Click Here](https://www.hackerrank.com/challenges/querying-the-document/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Functions/Querying%20the%20Document)|
-| 22 | Boxes through a Tunnel |Structs and Enums|Easy           |[Click Here](https://www.hackerrank.com/challenges/too-high-boxes/problem?isFullScreen=true) |Available Soon...|
-| 23 | Small Triangles, Large Triangles |Structs and Enums|Medium           |[Click Here](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem?isFullScreen=true) |Available Soon...|
-| 24 | Structuring the Document |Structs and Enums|Hard           |[Click Here](https://www.hackerrank.com/challenges/structuring-the-document/problem?isFullScreen=true) |Available Soon...|
-| 25 | Post Transition |Structs and Enums|Hard           |[Click Here](https://www.hackerrank.com/challenges/post-transition/problem?isFullScreen=true) |Available Soon...|
-
+| 22 | Boxes through a Tunnel |[Structs and Enums](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums)|Easy           |[Click Here](https://www.hackerrank.com/challenges/too-high-boxes/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums/Boxes%20through%20a%20Tunnel)|
+| 23 | Small Triangles, Large Triangles |[Structs and Enums](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums)|Medium           |[Click Here](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums/Small%20Triangles%2C%20Large%20Triangles)|
+| 24 | Structuring the Document |[Structs and Enums](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums)|Hard           |[Click Here](https://www.hackerrank.com/challenges/structuring-the-document/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums/Structuring%20the%20Document)|
+| 25 | Post Transition |[Structs and Enums](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums)|Hard           |[Click Here](https://www.hackerrank.com/challenges/post-transition/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums/Post%20Transition)|
 
 
 
