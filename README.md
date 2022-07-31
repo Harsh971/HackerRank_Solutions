@@ -25,6 +25,7 @@ Here you will get All Solutions for Topics from HackerRank Platform
 
 - [30 Day's Of Code](#30-days-of-code)
 - [C](#c)
+- [JAVA](#java)
 
 
 
@@ -105,6 +106,24 @@ Here you will get All Solutions for Topics from HackerRank Platform
 | 24 | Structuring the Document |[Structs and Enums](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums)|Hard           |[Click Here](https://www.hackerrank.com/challenges/structuring-the-document/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums/Structuring%20the%20Document)|
 | 25 | Post Transition |[Structs and Enums](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums)|Hard           |[Click Here](https://www.hackerrank.com/challenges/post-transition/problem?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/C/Structs%20and%20Enums/Post%20Transition)|
 
+
+## JAVA
+
+
+|    | Problem Name        |SubDomain   |Difficulty Level|HackerRank Panel Link                                                                       |Solution         |
+| :-:| :-:                 |:-:         | :-:            | :-:                                                                                        |:-:              |
+| 1  | Java Varargs - Simple Addition |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Easy            |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 2  | Java Reflection - Attributes |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Easy            |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 3  | Java Factory Pattern |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Easy            |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 4  | Java Singleton Pattern |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Easy            |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 5  | Covariant Return Types |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Easy            |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 6  | Can You Access? |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Medium            |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 7  | Prime Checker |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Medium          |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 8  | Java Visitor Pattern |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Medium          |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 9  | Java Annotations |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Medium          |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 10  | Java Lambda Expressions |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Medium           |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 11 | Java MD5 |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Medium         |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
+| 12  | Java SHA-256 |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Medium           |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |Available Soon|
 
 
 ## Feedback
