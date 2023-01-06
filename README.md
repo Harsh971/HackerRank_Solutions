@@ -178,13 +178,15 @@ Here you will get All Solutions for Topics from HackerRank Platform
 | 63 | Java MD5 |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Medium         |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced/Java%20MD5)|
 | 64  | Java SHA-256 |[Advanced](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced)|Medium           |[Click Here](https://www.hackerrank.com/challenges/simple-addition-varargs?isFullScreen=true) |[Click Here](https://github.com/Harsh971/HackerRank_Solutions/tree/main/Java/Advanced/Java%20SHA-256)|
 
-
 ## Feedback
 If you have any feedback, please reach out to us at harsh.thakkar0369@gmail.com
 
-## <img src="https://t3.ftcdn.net/jpg/03/55/16/48/360_F_355164871_fQLc5jgqvYaqKbrlM20WQ09r1xqune1J.jpg" alt="harshthakkar971" width="40" /> Connect with Me
+## <img src="https://t3.ftcdn.net/jpg/03/55/16/48/360_F_355164871_fQLc5jgqvYaqKbrlM20WQ09r1xqune1J.jpg" alt="harshthakkar971" width="30" /> Connect with Me
 <p>
-  	<a href="https://linkedin.com/in/harsh-thakkar-7764bb1a4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh-thakkar-7764bb1a4" height="50" width="50" /></a>
+
+ <a href="https://twitter.com/HarshThakkar971" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="HarshThakkar971" height="40" width="50" /></a>
   &nbsp;&nbsp;
- <a href="https://instagram.com/harsh_thakkar09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="harsh_thakkar09" height="50" width="50" /></a>
+  	<a href="https://linkedin.com/in/harsh-thakkar-7764bb1a4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="harsh-thakkar-7764bb1a4" height="40" width="40" /></a>
+  &nbsp;&nbsp;
+ <a href="https://instagram.com/harsh_thakkar09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="harsh_thakkar09" height="40" width="40" /></a>
 </p>
